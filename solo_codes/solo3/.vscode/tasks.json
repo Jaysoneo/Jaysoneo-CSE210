@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/solo_codes/solo2/solo2.csproj",
+                "${workspaceFolder}/solo3.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/solo_codes/solo2/solo2.csproj",
+                "${workspaceFolder}/solo3.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/solo_codes/solo2/solo2.csproj"
+                "${workspaceFolder}/solo3.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

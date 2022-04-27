@@ -6,7 +6,9 @@ namespace solo2
     {
         static void Main(string[] args)
         {
+            #pragma warning disable
             Console.WriteLine("What is your grade?");
+
             string writtengrade = Console.ReadLine();
 
             float grade = float.Parse(writtengrade);
@@ -31,6 +33,9 @@ namespace solo2
             {
                 Console.WriteLine("F");
             }
+        int max = int.MaxValue;
+        int min = int.MinValue;
+        Console.WriteLine($"max{max} and min{min}");
         }
     }
 }
