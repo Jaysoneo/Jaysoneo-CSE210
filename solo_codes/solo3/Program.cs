@@ -7,7 +7,7 @@ namespace solo_prep_3
         static void Main(string[] args)
         {
             Random randomGenerator = new Random();
-            int magicNumber = randomGenerator.Next(1, 101);
+            int magicNumber = randomGenerator.Next(1, 100);
 
             int guess = -1;
 
