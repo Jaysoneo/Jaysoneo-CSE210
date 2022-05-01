@@ -1,0 +1,15 @@
+C:\Users\Jayson\Documents\BYUI\cse210\solo_codes\solo4\bin\Debug\net6.0\solo4.exe
+C:\Users\Jayson\Documents\BYUI\cse210\solo_codes\solo4\bin\Debug\net6.0\solo4.deps.json
+C:\Users\Jayson\Documents\BYUI\cse210\solo_codes\solo4\bin\Debug\net6.0\solo4.runtimeconfig.json
+C:\Users\Jayson\Documents\BYUI\cse210\solo_codes\solo4\bin\Debug\net6.0\solo4.dll
+C:\Users\Jayson\Documents\BYUI\cse210\solo_codes\solo4\bin\Debug\net6.0\solo4.pdb
+C:\Users\Jayson\Documents\BYUI\cse210\solo_codes\solo4\obj\Debug\net6.0\solo4.csproj.AssemblyReference.cache
+C:\Users\Jayson\Documents\BYUI\cse210\solo_codes\solo4\obj\Debug\net6.0\solo4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayson\Documents\BYUI\cse210\solo_codes\solo4\obj\Debug\net6.0\solo4.AssemblyInfoInputs.cache
+C:\Users\Jayson\Documents\BYUI\cse210\solo_codes\solo4\obj\Debug\net6.0\solo4.AssemblyInfo.cs
+C:\Users\Jayson\Documents\BYUI\cse210\solo_codes\solo4\obj\Debug\net6.0\solo4.csproj.CoreCompileInputs.cache
+C:\Users\Jayson\Documents\BYUI\cse210\solo_codes\solo4\obj\Debug\net6.0\solo4.dll
+C:\Users\Jayson\Documents\BYUI\cse210\solo_codes\solo4\obj\Debug\net6.0\refint\solo4.dll
+C:\Users\Jayson\Documents\BYUI\cse210\solo_codes\solo4\obj\Debug\net6.0\solo4.pdb
+C:\Users\Jayson\Documents\BYUI\cse210\solo_codes\solo4\obj\Debug\net6.0\solo4.genruntimeconfig.cache
+C:\Users\Jayson\Documents\BYUI\cse210\solo_codes\solo4\obj\Debug\net6.0\ref\solo4.dll
