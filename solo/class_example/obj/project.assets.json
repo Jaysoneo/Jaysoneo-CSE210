@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Jayson\\Documents\\BYUI\\cse210\\solo\\solo3\\solo3.csproj",
-      "projectName": "solo3",
-      "projectPath": "c:\\Users\\Jayson\\Documents\\BYUI\\cse210\\solo\\solo3\\solo3.csproj",
+      "projectUniqueName": "C:\\Users\\Jayson\\Documents\\BYUI\\cse210\\solo\\class_example\\class_example.csproj",
+      "projectName": "class_example",
+      "projectPath": "C:\\Users\\Jayson\\Documents\\BYUI\\cse210\\solo\\class_example\\class_example.csproj",
       "packagesPath": "C:\\Users\\Jayson\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Jayson\\Documents\\BYUI\\cse210\\solo\\solo3\\obj\\",
+      "outputPath": "C:\\Users\\Jayson\\Documents\\BYUI\\cse210\\solo\\class_example\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jayson\\AppData\\Roaming\\NuGet\\NuGet.Config"

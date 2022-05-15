@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Jayson\\Documents\\BYUI\\cse210\\solo\\solo4\\solo4.csproj": {}
+    "C:\\Users\\Jayson\\Documents\\BYUI\\cse210\\team\\HILO\\HILO.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Jayson\\Documents\\BYUI\\cse210\\solo\\solo4\\solo4.csproj": {
+    "C:\\Users\\Jayson\\Documents\\BYUI\\cse210\\team\\HILO\\HILO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Jayson\\Documents\\BYUI\\cse210\\solo\\solo4\\solo4.csproj",
-        "projectName": "solo4",
-        "projectPath": "c:\\Users\\Jayson\\Documents\\BYUI\\cse210\\solo\\solo4\\solo4.csproj",
+        "projectUniqueName": "C:\\Users\\Jayson\\Documents\\BYUI\\cse210\\team\\HILO\\HILO.csproj",
+        "projectName": "HILO",
+        "projectPath": "C:\\Users\\Jayson\\Documents\\BYUI\\cse210\\team\\HILO\\HILO.csproj",
         "packagesPath": "C:\\Users\\Jayson\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Jayson\\Documents\\BYUI\\cse210\\solo\\solo4\\obj\\",
+        "outputPath": "C:\\Users\\Jayson\\Documents\\BYUI\\cse210\\team\\HILO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jayson\\AppData\\Roaming\\NuGet\\NuGet.Config"
