@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Jayson\\Documents\\BYUI\\cse210\\solo\\solo4\\solo4.csproj": {}
+    "c:\\Users\\Jayson\\Documents\\BYUI\\cse210\\solo\\class_example\\class_example.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Jayson\\Documents\\BYUI\\cse210\\solo\\solo4\\solo4.csproj": {
+    "c:\\Users\\Jayson\\Documents\\BYUI\\cse210\\solo\\class_example\\class_example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Jayson\\Documents\\BYUI\\cse210\\solo\\solo4\\solo4.csproj",
-        "projectName": "solo4",
-        "projectPath": "c:\\Users\\Jayson\\Documents\\BYUI\\cse210\\solo\\solo4\\solo4.csproj",
+        "projectUniqueName": "c:\\Users\\Jayson\\Documents\\BYUI\\cse210\\solo\\class_example\\class_example.csproj",
+        "projectName": "class_example",
+        "projectPath": "c:\\Users\\Jayson\\Documents\\BYUI\\cse210\\solo\\class_example\\class_example.csproj",
         "packagesPath": "C:\\Users\\Jayson\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Jayson\\Documents\\BYUI\\cse210\\solo\\solo4\\obj\\",
+        "outputPath": "c:\\Users\\Jayson\\Documents\\BYUI\\cse210\\solo\\class_example\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jayson\\AppData\\Roaming\\NuGet\\NuGet.Config"
