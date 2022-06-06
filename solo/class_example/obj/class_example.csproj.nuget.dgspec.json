@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Jayson\\Documents\\BYUI\\cse210\\solo\\class_example\\class_example.csproj": {}
+    "C:\\Users\\Jayson\\Documents\\BYUI\\cse210\\solo\\class_example\\class_example.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Jayson\\Documents\\BYUI\\cse210\\solo\\class_example\\class_example.csproj": {
+    "C:\\Users\\Jayson\\Documents\\BYUI\\cse210\\solo\\class_example\\class_example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Jayson\\Documents\\BYUI\\cse210\\solo\\class_example\\class_example.csproj",
+        "projectUniqueName": "C:\\Users\\Jayson\\Documents\\BYUI\\cse210\\solo\\class_example\\class_example.csproj",
         "projectName": "class_example",
-        "projectPath": "c:\\Users\\Jayson\\Documents\\BYUI\\cse210\\solo\\class_example\\class_example.csproj",
+        "projectPath": "C:\\Users\\Jayson\\Documents\\BYUI\\cse210\\solo\\class_example\\class_example.csproj",
         "packagesPath": "C:\\Users\\Jayson\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Jayson\\Documents\\BYUI\\cse210\\solo\\class_example\\obj\\",
+        "outputPath": "C:\\Users\\Jayson\\Documents\\BYUI\\cse210\\solo\\class_example\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jayson\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

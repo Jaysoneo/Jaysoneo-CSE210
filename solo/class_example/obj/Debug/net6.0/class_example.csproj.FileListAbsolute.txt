@@ -1,0 +1,15 @@
+C:\Users\Jayson\Documents\BYUI\cse210\solo\class_example\bin\Debug\net6.0\class_example.exe
+C:\Users\Jayson\Documents\BYUI\cse210\solo\class_example\bin\Debug\net6.0\class_example.deps.json
+C:\Users\Jayson\Documents\BYUI\cse210\solo\class_example\bin\Debug\net6.0\class_example.runtimeconfig.json
+C:\Users\Jayson\Documents\BYUI\cse210\solo\class_example\bin\Debug\net6.0\class_example.dll
+C:\Users\Jayson\Documents\BYUI\cse210\solo\class_example\bin\Debug\net6.0\class_example.pdb
+C:\Users\Jayson\Documents\BYUI\cse210\solo\class_example\obj\Debug\net6.0\class_example.csproj.AssemblyReference.cache
+C:\Users\Jayson\Documents\BYUI\cse210\solo\class_example\obj\Debug\net6.0\class_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayson\Documents\BYUI\cse210\solo\class_example\obj\Debug\net6.0\class_example.AssemblyInfoInputs.cache
+C:\Users\Jayson\Documents\BYUI\cse210\solo\class_example\obj\Debug\net6.0\class_example.AssemblyInfo.cs
+C:\Users\Jayson\Documents\BYUI\cse210\solo\class_example\obj\Debug\net6.0\class_example.csproj.CoreCompileInputs.cache
+C:\Users\Jayson\Documents\BYUI\cse210\solo\class_example\obj\Debug\net6.0\class_example.dll
+C:\Users\Jayson\Documents\BYUI\cse210\solo\class_example\obj\Debug\net6.0\refint\class_example.dll
+C:\Users\Jayson\Documents\BYUI\cse210\solo\class_example\obj\Debug\net6.0\class_example.pdb
+C:\Users\Jayson\Documents\BYUI\cse210\solo\class_example\obj\Debug\net6.0\class_example.genruntimeconfig.cache
+C:\Users\Jayson\Documents\BYUI\cse210\solo\class_example\obj\Debug\net6.0\ref\class_example.dll
