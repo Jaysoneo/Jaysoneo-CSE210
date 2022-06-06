@@ -1,20 +1,18 @@
 ﻿using System;
-using University;
+using Shapes;
 
-
-namespace Unit02
+namespace MyApp
 {
-    class Program
+    internal class Program
     {
-        static int Main(string[] args)
+        static void Main(string[] args)
         {
-            Student student1 = new Student();
-            student1.Major = "Biology";
-            student1.Credits = 12;
-            student1.FirstName ="Bob";
-            student1.LastName ="Gates";
-
-            Console.WriteLine($"The student {student1.FirstName} {student1.LastName} has {student1.Credits} credits in {student1.Major}. Congratulations!!!");
+            Rectangle r1 = new Rectangle(8,4);
+            Console.WriteLine($"area: {r1.Area()},perimeter: {r1.Perimeter()}");
+            Square s1 = new Square(4);
+            Console.WriteLine($"{s1.Area()}");
+            Cube c1 = new Cube(6);
+            Console.WriteLine($"Volume {c1.Volume()}");
         }
     }
 }
