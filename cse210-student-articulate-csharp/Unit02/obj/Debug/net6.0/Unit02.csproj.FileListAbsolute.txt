@@ -1,0 +1,15 @@
+C:\Users\Jayson\Documents\BYUI\cse210\cse210-student-articulate-csharp\Unit02\bin\Debug\net6.0\Unit02.exe
+C:\Users\Jayson\Documents\BYUI\cse210\cse210-student-articulate-csharp\Unit02\bin\Debug\net6.0\Unit02.deps.json
+C:\Users\Jayson\Documents\BYUI\cse210\cse210-student-articulate-csharp\Unit02\bin\Debug\net6.0\Unit02.runtimeconfig.json
+C:\Users\Jayson\Documents\BYUI\cse210\cse210-student-articulate-csharp\Unit02\bin\Debug\net6.0\Unit02.dll
+C:\Users\Jayson\Documents\BYUI\cse210\cse210-student-articulate-csharp\Unit02\bin\Debug\net6.0\Unit02.pdb
+C:\Users\Jayson\Documents\BYUI\cse210\cse210-student-articulate-csharp\Unit02\obj\Debug\net6.0\Unit02.csproj.AssemblyReference.cache
+C:\Users\Jayson\Documents\BYUI\cse210\cse210-student-articulate-csharp\Unit02\obj\Debug\net6.0\Unit02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayson\Documents\BYUI\cse210\cse210-student-articulate-csharp\Unit02\obj\Debug\net6.0\Unit02.AssemblyInfoInputs.cache
+C:\Users\Jayson\Documents\BYUI\cse210\cse210-student-articulate-csharp\Unit02\obj\Debug\net6.0\Unit02.AssemblyInfo.cs
+C:\Users\Jayson\Documents\BYUI\cse210\cse210-student-articulate-csharp\Unit02\obj\Debug\net6.0\Unit02.csproj.CoreCompileInputs.cache
+C:\Users\Jayson\Documents\BYUI\cse210\cse210-student-articulate-csharp\Unit02\obj\Debug\net6.0\Unit02.dll
+C:\Users\Jayson\Documents\BYUI\cse210\cse210-student-articulate-csharp\Unit02\obj\Debug\net6.0\refint\Unit02.dll
+C:\Users\Jayson\Documents\BYUI\cse210\cse210-student-articulate-csharp\Unit02\obj\Debug\net6.0\Unit02.pdb
+C:\Users\Jayson\Documents\BYUI\cse210\cse210-student-articulate-csharp\Unit02\obj\Debug\net6.0\Unit02.genruntimeconfig.cache
+C:\Users\Jayson\Documents\BYUI\cse210\cse210-student-articulate-csharp\Unit02\obj\Debug\net6.0\ref\Unit02.dll
