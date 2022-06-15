@@ -1,4 +1,5 @@
 using Unit05.Game.Casting;
+using System.Collections.Generic;
 
 
 namespace Unit05.Game.Scripting 
@@ -20,4 +21,5 @@ namespace Unit05.Game.Scripting
         /// <param name="script">The script of actions.</param>
         void Execute(Cast cast, Script script);
     }
+    
 }
